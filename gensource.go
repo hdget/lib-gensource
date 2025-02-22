@@ -3,7 +3,7 @@ package gensource
 import (
 	"bytes"
 	"github.com/dave/jennifer/jen"
-	reflectUtils "github.com/hdget/hdutils/reflect"
+	reflectUtils "github.com/hdget/utils/reflect"
 	"os"
 )
 

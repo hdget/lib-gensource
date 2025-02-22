@@ -1,4 +1,4 @@
 github.com/dave/jennifer v1.7.1 h1:B4jJJDHelWcDhlRQxWeo0Npa/pYKBLrirAQoTN45txo=
 github.com/dave/jennifer v1.7.1/go.mod h1:nXbxhEmQfOZhWml3D1cDK5M1FLnMSozpbFN/m3RmGZc=
-github.com/hdget/hdutils v0.0.32 h1:T1G9dPTaMQY0J42iBhzaJMsfYlQ1XjKmrHpkSIbFG3g=
-github.com/hdget/hdutils v0.0.32/go.mod h1:arsMf+mKyL/qwlQwGE/4JGsdNs9m8t2a3t1AFkIn6D0=
+github.com/hdget/utils v0.0.1 h1:tdkKInkv2I97VRIcnsVy8FyMzFYBAiLL/FV4jlTPb6Q=
+github.com/hdget/utils v0.0.1/go.mod h1:1cmY9zQ+KBpsaf58IJQ3kwv2+1NC4dCFLnT6qQG4028=
