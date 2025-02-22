@@ -1,4 +1,4 @@
-module github.com/hdget/util-gensource
+module github.com/hdget/lib-gensource
 
 go 1.23.1
 
